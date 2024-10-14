@@ -38,3 +38,4 @@ C:\SMALL PROJECTS\Habit Tracker\Habits\obj\Debug\net8.0\refint\Habits.dll
 C:\SMALL PROJECTS\Habit Tracker\Habits\obj\Debug\net8.0\Habits.pdb
 C:\SMALL PROJECTS\Habit Tracker\Habits\obj\Debug\net8.0\Habits.genruntimeconfig.cache
 C:\SMALL PROJECTS\Habit Tracker\Habits\obj\Debug\net8.0\ref\Habits.dll
+C:\SMALL PROJECTS\Habit Tracker\Habits\obj\Debug\net8.0\Habits.sourcelink.json
